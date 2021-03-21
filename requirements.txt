@@ -1,4 +1,3 @@
-opencv-python
-cv2
+opencv-python-headless
 numpy
 math
